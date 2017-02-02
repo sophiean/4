@@ -1,0 +1,16 @@
+  .bar {
+  font-size: 40px;
+}
+
+#para {
+  color: pink;
+}
+
+#para2 {
+  color: blue;
+  p {
+    justify-content: center
+  }
+  #para {
+      justify-content: flex-end
+  }
